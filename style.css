@@ -29,7 +29,7 @@ h1{
     word-spacing: 1vw;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
-    text-shadow: 10px 1px;
+    text-shadow: 0.15vw 0.15vw;
     
    
   
@@ -42,7 +42,7 @@ h2
     color:seashell;
     margin-left:45%;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    text-shadow: 1px 1px;
+    text-shadow: 0.05vw 0.05vw;
     font-style:italic;
     font-size:1.2vw;
     
