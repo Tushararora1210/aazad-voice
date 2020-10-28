@@ -99,6 +99,49 @@ h2
    
 
 }
+#person
+{
+    width:100%;
+    
+    background-color:goldenrod;
+    
+}
+#videos
+{
+    width:100%;
+    background-color:blueviolet;
+}
+#videos >#heading
+{
+    text-align:center;
+    font-size:3vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-shadow: 0.15vw 0.15vw;
+}
+#videos >.videoframes
+{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+    justify-content: space-evenly;
+}
+#person >#heading
+{
+    text-align:center;
+    font-size:3vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-shadow: 0.15vw 0.15vw;
+}
+#person >#content
+{
+    text-align:center;
+    font-size:1.5vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    
+}
 
 #navbar img
 {
