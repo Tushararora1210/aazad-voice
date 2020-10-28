@@ -166,7 +166,10 @@ a
 {
     display:none;
 }
-
+iframe{
+    width:35vw;
+    height:35vh;
+}
 .active
 {
     background-color: red;
